@@ -1,3 +1,6 @@
+package TestesUnitarios;
+
+import TestesUnitarios.Calculadora;
 
 public class CalculadoraTest {
 
